@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Arun Haral</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Nus Pass Management System**
+- 🔭 I’m currently working on **Bus Pass Management System**
 
 - 🌱 I’m currently learning **Reactjs**
 
